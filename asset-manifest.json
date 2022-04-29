@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/backendless_assignment/static/css/main.49538a23.css",
+    "main.js": "/backendless_assignment/static/js/main.211ddbde.js",
+    "static/js/787.3e8c2bc3.chunk.js": "/backendless_assignment/static/js/787.3e8c2bc3.chunk.js",
+    "index.html": "/backendless_assignment/index.html",
+    "main.49538a23.css.map": "/backendless_assignment/static/css/main.49538a23.css.map",
+    "main.211ddbde.js.map": "/backendless_assignment/static/js/main.211ddbde.js.map",
+    "787.3e8c2bc3.chunk.js.map": "/backendless_assignment/static/js/787.3e8c2bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49538a23.css",
+    "static/js/main.211ddbde.js"
+  ]
+}
