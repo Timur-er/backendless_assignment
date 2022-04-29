@@ -10,7 +10,7 @@ const InputComponent = ({label, axis, storeValue}) => {
 
     useEffect(() => {
         setValue(storeValue)
-    }, [])
+    }, [storeValue])
 
     const handleInput = (e) => {
         setValue(e.target.value)
