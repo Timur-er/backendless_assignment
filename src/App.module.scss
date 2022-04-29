@@ -1,0 +1,45 @@
+@import "~normalize.css";
+
+.appWrapper {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  vertical-align: center;
+  align-items: center;
+  @media (max-width: 921px) {
+    vertical-align: center;
+    align-items: center;
+  }
+  }
+
+.chartContainer {
+  width: 50%;
+  padding: 20px;
+  box-shadow: 1px 1px 15px 1px lightskyblue;
+  border-radius: 10px;
+  @media (min-width: 320px) and (max-width: 921px){
+    width: 100%;
+    box-shadow: none;
+  }
+}
+
+.chartSettingsContainer {
+  display: flex;
+  column-gap: 50px;
+  margin-top: 20px;
+  @media (min-width: 320px) and (max-width: 921px){
+    flex-direction: column;
+  }
+}
+
+.inputsWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.radioBtnsWrapper {
+  display: flex;
+  flex-direction: column;
+}

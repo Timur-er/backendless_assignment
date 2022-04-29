@@ -1,0 +1,12 @@
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input {
+  border: 1px solid lightskyblue;
+  border-radius: 5px;
+  padding: 5px;
+}

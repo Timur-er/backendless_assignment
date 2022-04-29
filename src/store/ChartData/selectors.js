@@ -1,0 +1,1 @@
+export const getChartData = store => store.chartData;

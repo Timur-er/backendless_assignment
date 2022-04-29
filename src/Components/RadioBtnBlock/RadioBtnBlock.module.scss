@@ -1,0 +1,10 @@
+.radioBtnWrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  max-width: 150px;
+  margin-top: 10px;
+  height: 120px;
+  flex-wrap: wrap;
+  column-gap: 20px;
+}
